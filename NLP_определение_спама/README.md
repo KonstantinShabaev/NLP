@@ -2,7 +2,7 @@
 
 **Проект для автоматического определения спама в SMS-сообщениях с точностью до 98%.**  
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 
 <img src="https://raw.githubusercontent.com/yourusername/spam-classifier/main/images/demo.gif" width="600" alt="Демо работы">
 
