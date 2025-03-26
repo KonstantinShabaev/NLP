@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/1f88610d-4554-4c09-8a67-12eac671f1f0)
 
-- [Облако слов для спама]
+- Облако слов для спама
 
 **Проект для автоматического определения спама в SMS-сообщениях с точностью до 98%.**  
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
